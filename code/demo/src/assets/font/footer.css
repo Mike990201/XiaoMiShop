@@ -1,0 +1,194 @@
+.footer{
+	width: 100%;
+	height: 332px;
+}
+.footer .footer-service{
+	width: 1226px;
+	height: 79px;
+	border-bottom:1px solid #ccc ;
+	margin: auto;
+	padding: 20px 0;
+}
+.footer .footer-service ul{
+	height: 25px;
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+	line-height: 80px;
+}
+.footer .footer-service ul li{
+	justify-content: space-between;
+	width: 242.7px;
+	height: 25px;
+	text-align: center;
+	color: #616161;
+}
+.footer .footer-service ul li a:hover{
+	color: #FF6700;
+}
+.footer .footer-service ul i{
+	font-size: 24px;
+}
+.footer-link{
+	width: 1226px;
+	height: 252px;
+	margin: 20px auto;
+	display: flex;
+	justify-content: space-between;
+	
+}
+.footer-link dl{
+	width: 160px;
+	margin: 0;
+}
+.footer-link .fright{
+	width: 252px;
+	height: 111px;
+	margin: 0 auto;
+}
+.footer-link dl dt{
+	margin-bottom: 26px;
+	color: #424242;
+	font-size: 14px;
+}
+.footer-link dl dd{
+	font-size: 12px;
+	margin-top: 10px;
+	color: #757575;
+}
+.footer-link dl dd a:hover{
+	color:#FF6700;
+}
+.fright{
+	width: 252px;
+	height: 111px;
+	text-align: center;
+}
+.fright .fp{
+	color: #FF6700;
+	font-size: 22px;
+	margin-bottom: 5px;
+}
+.fright p:nth-child(2){
+	color: #616161;
+	font-size: 12px;
+	margin-bottom: 5px;
+}
+.fright button{
+	width: 120px;
+	height: 30px;
+	color: #FF6700;
+	border:1px solid #FF6700;
+	background-color: #FFFFFF;
+}
+.fright button:hover{
+	background-color: #ff6700;
+	color: #fff;
+	
+}
+.fright button a:hover{
+	color: #fff;
+	background-color: #ff6700;
+}
+.fright button a{
+	color: #FF6700;
+}
+.footer-rson{
+	width: 251px;
+	height: 21px;
+	margin-top: 10px;
+}
+.footer-rson img{
+	width: 24px;
+	height: 24px;
+}
+.footer-rson .rson-gzxm{
+	float: left;
+	display: inline-block;
+	font-size: 12px;
+	height: 24px;
+	line-height: 24px;
+	margin-left: 68px;
+}
+.footer-rson .rson-img{
+	width: 60px;
+	height: 24px;
+	display: inline-block;
+	float: left;
+}
+.footer-rson .rson-img a img:hover{
+	background-color: #ff6700;
+}
+.footer-rson .rson-img
+.site-info{
+	width: 1903px;
+	height: 266px;
+	padding: 30px 0 ;
+	background-color: #fafafa;
+	margin: 0 auto;
+}
+.site-info{
+	width: 1226px;
+	height: 122px;
+	margin: 0 auto;
+	display: flex;
+}
+.site-info .site-logo{
+	width: 57px;
+	height: 57px;
+}
+.site-info .site-logo img{
+	width: 57px;
+	height: 57px;
+	margin-right: 10px;
+	
+}
+.sites{
+	width: 1159px;
+	height: 19px;
+	margin-left: 10px;
+}
+.sites .a{
+	color: #757575;
+	font-size: 12px;
+}
+.sites a,.sites span{
+	color: #757575;
+	font: 14px/1.5 Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+}
+.site-msg{
+	height:122px;
+}
+.site-msg p:nth-child(3){
+	font-size: 12px;
+	color: #b0b0b0;
+	font: 14px/1.5 Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+}
+.site-msg a:hover{
+	color: #ff6700;
+}
+.site-msg p:last-child a{
+	color: #b0b0b0;
+}
+.site-msg p:last-child a:hover{
+	color: #FF6700;
+}
+.info-links{
+	width: 1226px;
+	height: 28px;
+	margin: 0 auto;
+	padding-left: 100px;
+}
+.info-links img{
+	width: 85px;
+	height: 28px;
+}
+.slogan{
+	width: 100%;
+	height: 20px;
+	margin: 0 auto;
+	text-align: center;
+	color: #CCCCCC;
+	font-size: 19px;
+	margin-top: 50px;
+}
